@@ -1,0 +1,94 @@
+---
+title: "**EEB330** *Programming for Biologists*"
+output:
+  html_document:
+    number_sections: false
+    toc: true
+    theme: yeti
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+---
+
+# Preliminares
+
+## R
+
+The first part of our course will be all in the R programming language, so you should install R on your computer.
+You can find it at [https://cran.rstudio.com/index.html](https://cran.rstudio.com/index.html).
+On this website, there are instructions for installing it on various different operating systems in English; versions for Windows, Mac OS, and Linux are available.
+Linux users likely have a package manager installed on their system, such as apt or pacman, which can also be used for the installation.
+
+The basic installation of R on Windows or Mac OS provides a basic interface for running routines; however, we recommend installing R Studio, a very intuitive interface for using R.
+This interface can be found at [http://www.rstudio.com](https://posit.co/products/open-source/rstudio/) for Windows, Mac OS, or Linux.
+
+# Lectures
+
+### 0. *Motivation and Computer Programming*
+
++ [Why learn Programming?](https://eeb330.github.io/slides/00_Why_Programming.html)
++ [Intro to the computer and programming logic](https://eeb330.github.io/slides/01_Computer_programming.html)
+
+### 1. *Basic R and git*
+
+
++ [Interacting with R](https://eeb330.github.io/slides/02_BasicR.html)
++ [Version Control](https://eeb330.github.io/slides/0_BasicGit.html)
+
+
+
+# Precepts
+
+**Precept 1**: [*Installing R and an IDE*]()
+
+**Precept 2**: [*Basic R and git*]()
+
+**Precept 3**: [*Control flow and Functions*]()
+
+**Precept 4**: [*Data IO*]()
+
+**Precept 5**: [*Data Wrangling*]()
+
+**Precept 6**: [*Split apply combine*]()
+
+**Precept 7**: [*Plotting data*]()
+
+**Precept 8**: [**]()
+
+**Precept 9**: [**]()
+
+**Precept 10**: [**]()
+
+**Precept 11**: [**]()
+
+**Precept 12**: [**]()
+
+
+# Grading
+
+  - **No exams**
+  - Weekly-ish coding exercises (30%)
+    - Graded for coherence, not correctness
+
+  - Class and precept participation (15%)
+    - Participation and in-class quizzes
+
+  - Two coding projects (35%)
+    - Midterm and Final projects
+    - Around 2-3 weeks 
+
+  - Open-science exercise (20%)
+    - Small presentation during finals period reproducing the analysis and/or plots from a published paper. 
+    - More details later in the course
+
+# Staff 
+
+- Diogo Melo - [damelo@princeton.edu](damelo@princeton.edu)
+- Scott Wolf - [swwolf@princeton.edu](swwolf@princeton.edu)
+
+- Website: [eeb330.github.io](http://eeb330.github.io)
+
+- Office hours:
+  - Guyot 301
+  - TBD
