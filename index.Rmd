@@ -16,12 +16,20 @@ output:
 ## R
 
 The first part of our course will be all in the R programming language, so you should install R on your computer.
-You can find it at [https://cran.rstudio.com/index.html](https://cran.rstudio.com/index.html).
-On this website, there are instructions for installing it on various different operating systems in English; versions for Windows, Mac OS, and Linux are available.
+You can find R at [https://cran.rstudio.com/index.html](https://cran.rstudio.com/index.html).
+On this website, there are instructions for installing it on various different operating systems; versions for Windows, Mac OS, and Linux are available.
 Linux users likely have a package manager installed on their system, such as apt or pacman, which can also be used for the installation.
 
-The basic installation of R on Windows or Mac OS provides a basic interface for running routines; however, we recommend installing R Studio, a very intuitive interface for using R.
-This interface can be found at [http://www.rstudio.com](https://posit.co/products/open-source/rstudio/) for Windows, Mac OS, or Linux.
+The basic installation of R on Windows or Mac OS provides a basic interface for running routines; however, we recommend installing R Studio, an intuitive integrated development environment (IDE) for using R.
+This IDE can be found at [http://www.rstudio.com](https://posit.co/products/open-source/rstudio/) for Windows, Mac OS, or Linux.
+
+## Text editor
+
+Installing a more general text editor is also a good idea. The most popular modern editor is [vscode](https://code.visualstudio.com/). Vscode has plugins for several languages and lots of useful tools. Other great choices that are a bit more old school are [neovim](https://neovim.io/) and [emacs](https://www.gnu.org/software/emacs/). 
+
+## Github
+
+You should also set up a [github account](https://github.com/) and [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) locally. You can also install [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) to interact with git, but this is optional.
 
 # Lectures
 
@@ -50,7 +58,7 @@ This interface can be found at [http://www.rstudio.com](https://posit.co/product
 
 **Precept 5**: [*Data Wrangling*]()
 
-**Precept 6**: [*Split apply combine*]()
+**Precept 6**: [*Split-apply-combine*]()
 
 **Precept 7**: [*Plotting data*]()
 
