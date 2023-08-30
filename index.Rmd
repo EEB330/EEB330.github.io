@@ -40,9 +40,18 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 ### 1. *Basic R and git*
 
-
 + [Interacting with R](https://eeb330.github.io/slides/02_BasicR.html)
 + [Version Control](https://eeb330.github.io/slides/0_BasicGit.html)
+
+### 2. *Control Flow and Functions*
+
++ [Control Flow]()
++ [Functions]()
+
+### 3. *Data IO and Regular Expressions*
+
++ [Data Input and Output]()
++ [Regular Expressions]()
 
 
 
