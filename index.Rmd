@@ -109,3 +109,11 @@ You should also set up a [github account](https://github.com/) and [install git]
 - Office hours:
   - Guyot 301
   - TBD
+  
+# Lectures
+
+```{r}
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(-74.65227,40.34494, zoom = 20) %>% 
+  addCircles(-74.65173438788858, 40.34492494187067, radius = 50, color = "#03F",    weight = 3)
+```
