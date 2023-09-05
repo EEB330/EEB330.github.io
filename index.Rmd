@@ -115,7 +115,7 @@ A live list of suggested reference materials
   - 13h30 to 14h50
   - Jadwin Hall 303
   
-- [Schedule](schedule.html)
+- [Schedule](eeb330.github.io/schedule.html)
 
 ```{r}
 library(leaflet)
