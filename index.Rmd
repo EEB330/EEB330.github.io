@@ -112,6 +112,10 @@ You should also set up a [github account](https://github.com/) and [install git]
   
 # Lectures
 
+- Mondays and Wednesday 
+  - 13h30 to 14h50
+  - Jadwin Hall 303
+
 ```{r}
 library(leaflet)
 leaflet() %>% addTiles() %>% setView(-74.65227,40.34494, zoom = 20) %>% 
