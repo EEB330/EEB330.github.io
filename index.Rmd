@@ -31,7 +31,7 @@ Installing a more general text editor is also a good idea. The most popular mode
 
 You should also set up a [github account](https://github.com/) and [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) locally. You can also install [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) to interact with git, but this is optional.
 
-# Lectures
+# Lecture slides
 
 ### 0. *Motivation and Computer Programming*
 
