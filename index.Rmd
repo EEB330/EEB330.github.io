@@ -116,6 +116,7 @@ A live list of suggested reference materials
   - Jadwin Hall 303
   
 - [Schedule](schedule.html)
+  - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTY0MjgxMDI1NjFlYWQ4MWY4NDI2NGQyMzQ3Mzg2OGNkYTVhNDA0YzY1MmNmNzI0ZWU5YjBhNWZhYzYwZTZkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ```{r}
 library(leaflet)

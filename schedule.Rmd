@@ -5,6 +5,8 @@ date: 2023-08-06
 output: html_document
 ---
 
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTY0MjgxMDI1NjFlYWQ4MWY4NDI2NGQyMzQ3Mzg2OGNkYTVhNDA0YzY1MmNmNzI0ZWU5YjBhNWZhYzYwZTZkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
 | Date      | Theme                                   | Content                                                                                                                                                                     |
 |-----------|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sept. 6th | Why programming?                        | Reproducible research, Bespoke custom analysis, Independence for creating models, Beautiful figures, Sharing analytical tools, Package ecosystem                              |
