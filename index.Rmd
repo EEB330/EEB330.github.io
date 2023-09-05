@@ -81,23 +81,22 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 **Precept 12**: [**]()
 
+# Readings
 
-# Grading
+A live list of suggested reference materials
 
-  - **No exams**
-  - Weekly-ish coding exercises (30%)
-    - Graded for coherence, not correctness
+### Short tutorials
 
-  - Class and precept participation (15%)
-    - Participation and in-class quizzes
+- [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
+- [British Ecological Society Guides](https://www.britishecologicalsociety.org/publications/guides-to/)
+- [Data Wranglong Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
-  - Two coding projects (35%)
-    - Midterm and Final projects
-    - Around 2-3 weeks 
+### Longer texts
 
-  - Open-science exercise (20%)
-    - Small presentation during finals period reproducing the analysis and/or plots from a published paper. 
-    - More details later in the course
+- [R for Data Science](https://r4ds.hadley.nz/)
+- [Bioinformatics Data Skills](https://vincebuffalo.com/book/)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Mastering Regular Expressions](http://regex.info/book.html)
 
 # Staff 
 
@@ -121,3 +120,20 @@ library(leaflet)
 leaflet() %>% addTiles() %>% setView(-74.65227,40.34494, zoom = 20) %>% 
   addCircles(-74.65173438788858, 40.34492494187067, radius = 50, color = "#03F", weight = 3)
 ```
+
+# Grading
+
+  - **No exams**
+  - Weekly-ish coding exercises (30%)
+    - Graded for coherence, not correctness
+
+  - Class and precept participation (15%)
+    - Participation and in-class quizzes
+
+  - Two coding projects (35%)
+    - Midterm and Final projects
+    - Around 2-3 weeks 
+
+  - Open-science exercise (20%)
+    - Small presentation during finals period reproducing the analysis and/or plots from a published paper. 
+    - More details later in the course
