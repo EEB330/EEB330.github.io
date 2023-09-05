@@ -114,6 +114,8 @@ A live list of suggested reference materials
 - Mondays and Wednesday 
   - 13h30 to 14h50
   - Jadwin Hall 303
+  
+- [Schedule](schedule.html)
 
 ```{r}
 library(leaflet)
