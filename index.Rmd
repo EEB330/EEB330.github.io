@@ -57,29 +57,29 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 # Precepts
 
-**Precept 1**: [*Installing R and an IDE*]()
+**Precept 0**: [*Installing R and an IDE*]()
 
-**Precept 2**: [*Basic R and git*]()
+**Precept 1**: [*Basic R and git*]()
 
-**Precept 3**: [*Control flow and Functions*]()
+**Precept 2**: [*Control flow and Functions*]()
 
-**Precept 4**: [*Data IO*]()
+**Precept 3**: [*Data IO and cleaning*]()
 
-**Precept 5**: [*Data Wrangling*]()
+**Precept 4**: [*Data Wrangling*]()
 
-**Precept 6**: [*Split-apply-combine*]()
+**Precept 5**: [*Split-apply-combine*]()
 
-**Precept 7**: [*Plotting data*]()
+**Precept 6**: [*Plotting data*]()
 
-**Precept 8**: [**]()
+**Precept 7**: [*Starting with Python*]()
 
-**Precept 9**: [**]()
+**Precept 8**: [*Bioinformatics tools*]()
 
-**Precept 10**: [**]()
+**Precept 9**: [*Pipelines*]()
 
-**Precept 11**: [**]()
+**Precept 10**: [*TBD*]()
 
-**Precept 12**: [**]()
+**Precept 11**: [*TBD*]()
 
 # Readings
 
