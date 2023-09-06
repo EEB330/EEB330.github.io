@@ -35,13 +35,13 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 ### 0. *Motivation and Computer Programming*
 
-+ [Why learn Programming?](https://eeb330.github.io/slides/00_Why_Programming.html)
-+ [Intro to the computer and programming logic](https://eeb330.github.io/slides/01_Computer_programming.html)
++ [Why learn Programming?](slides/00_Why_Programming.html)
++ [Intro to the computer and programming logic](slides/01_Computer_programming.html)
 
 ### 1. *Basic R and git*
 
-+ [Interacting with R](https://eeb330.github.io/slides/02_BasicR.html)
-+ [Version Control](https://eeb330.github.io/slides/0_BasicGit.html)
++ [Interacting with R](slides/02_BasicR.html)
++ [Version Control](slides/03_BasicGit.html)
 
 ### 2. *Control Flow and Functions*
 
