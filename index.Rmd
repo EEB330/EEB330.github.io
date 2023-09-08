@@ -113,15 +113,15 @@ A live list of suggested reference materials
 
 - Mondays and Wednesday 
   - 13h30 to 14h50
-  - Jadwin Hall 303
+  - McCosh Hall 62
   
 - [Schedule](schedule.html)
   - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTY0MjgxMDI1NjFlYWQ4MWY4NDI2NGQyMzQ3Mzg2OGNkYTVhNDA0YzY1MmNmNzI0ZWU5YjBhNWZhYzYwZTZkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ```{r}
 library(leaflet)
-leaflet() %>% addTiles() %>% setView(-74.65227,40.34494, zoom = 20) %>% 
-  addCircles(-74.65173438788858, 40.34492494187067, radius = 50, color = "#03F", weight = 3)
+leaflet() %>% addTiles() %>% setView(-74.655895805085857,40.34855052259699, zoom = 20) %>% 
+  addCircles(-74.65589580508585, 40.34855052259699, radius = 25, color = "#03F", weight = 3)
 ```
 
 # Grading
