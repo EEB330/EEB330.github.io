@@ -57,9 +57,7 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 # Precepts
 
-**Precept 0**: [*Installing R and an IDE*]()
-
-**Precept 1**: [*Basic R and git*]()
+**Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
 
 **Precept 2**: [*Control flow and Functions*]()
 
