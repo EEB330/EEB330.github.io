@@ -45,12 +45,12 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 ### 2. *Control Flow and Functions*
 
-+ [Control Flow]()
-+ [Functions]()
++ [Control Flow](slides/04_ControlFlow.html)
++ [Functions](slides/05_Functions.html)
 
 ### 3. *Data IO and Regular Expressions*
 
-+ [Data Input and Output]()
++ [Data Input and Output](slides/06_DataIO.html)
 + [Regular Expressions]()
 
 
