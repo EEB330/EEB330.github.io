@@ -62,6 +62,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
 
+**Precept 2**: [*Control Flow*](slides/precepts/01_control_flow.html)
+
 # Readings
 
 A live list of suggested reference materials
