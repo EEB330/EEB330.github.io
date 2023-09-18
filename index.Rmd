@@ -51,9 +51,12 @@ You should also set up a [github account](https://github.com/) and [install git]
 ### 3. *Data IO and Regular Expressions*
 
 + [Data Input and Output](slides/06_DataIO.html)
-+ [Regular Expressions]()
++ [Strings and Regular Expressions](slides/07_RegularExpressions.html)
 
+### 4. *Data Wrangling Week*
 
++ [Data Wrangling 1](slides/08_DataWrangling1.html)
++ [Data Wrangling 2](slides/09_DataWrangling2.html)
 
 # Precepts
 
