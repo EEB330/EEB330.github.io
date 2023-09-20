@@ -35,51 +35,34 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 ### 0. *Motivation and Computer Programming*
 
-+ [Why learn Programming?](https://eeb330.github.io/slides/00_Why_Programming.html)
-+ [Intro to the computer and programming logic](https://eeb330.github.io/slides/01_Computer_programming.html)
++ [Why learn Programming?](slides/00_Why_Programming.html)
++ [Intro to the computer and programming logic](slides/01_Computer_programming.html)
 
 ### 1. *Basic R and git*
 
-+ [Interacting with R](https://eeb330.github.io/slides/02_BasicR.html)
-+ [Version Control](https://eeb330.github.io/slides/0_BasicGit.html)
++ [Interacting with R](slides/02_BasicR.html)
++ [Version Control](slides/03_BasicGit.html)
 
 ### 2. *Control Flow and Functions*
 
-+ [Control Flow]()
-+ [Functions]()
++ [Control Flow](slides/04_ControlFlow.html)
++ [Functions](slides/05_Functions.html)
 
 ### 3. *Data IO and Regular Expressions*
 
-+ [Data Input and Output]()
-+ [Regular Expressions]()
++ [Data Input and Output](slides/06_DataIO.html)
++ [Strings and Regular Expressions](slides/07_RegularExpressions.html)
 
+### 4. *Data Wrangling Week*
 
++ [Data Wrangling 1](slides/08_DataWrangling1.html)
++ [Data Wrangling 2](slides/09_DataWrangling2.html)
 
 # Precepts
 
-**Precept 0**: [*Installing R and an IDE*]()
+**Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
 
-**Precept 1**: [*Basic R and git*]()
-
-**Precept 2**: [*Control flow and Functions*]()
-
-**Precept 3**: [*Data IO and cleaning*]()
-
-**Precept 4**: [*Data Wrangling*]()
-
-**Precept 5**: [*Split-apply-combine*]()
-
-**Precept 6**: [*Plotting data*]()
-
-**Precept 7**: [*Starting with Python*]()
-
-**Precept 8**: [*Bioinformatics tools*]()
-
-**Precept 9**: [*Pipelines*]()
-
-**Precept 10**: [*TBD*]()
-
-**Precept 11**: [*TBD*]()
+**Precept 2**: [*Control Flow*](slides/precepts/01_control_flow.html)
 
 # Readings
 
@@ -113,15 +96,15 @@ A live list of suggested reference materials
 
 - Mondays and Wednesday 
   - 13h30 to 14h50
-  - Jadwin Hall 303
+  - McCosh Hall 62
   
 - [Schedule](schedule.html)
   - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTY0MjgxMDI1NjFlYWQ4MWY4NDI2NGQyMzQ3Mzg2OGNkYTVhNDA0YzY1MmNmNzI0ZWU5YjBhNWZhYzYwZTZkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
 ```{r}
 library(leaflet)
-leaflet() %>% addTiles() %>% setView(-74.65227,40.34494, zoom = 20) %>% 
-  addCircles(-74.65173438788858, 40.34492494187067, radius = 50, color = "#03F", weight = 3)
+leaflet() %>% addTiles() %>% setView(-74.655895805085857,40.34855052259699, zoom = 20) %>% 
+  addCircles(-74.65589580508585, 40.34855052259699, radius = 25, color = "#03F", weight = 3)
 ```
 
 # Grading

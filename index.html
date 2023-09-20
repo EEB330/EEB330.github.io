@@ -5606,57 +5606,48 @@ Desktop</a> to interact with git, but this is optional.</p>
 <div id="motivation-and-computer-programming" class="section level3">
 <h3>0. <em>Motivation and Computer Programming</em></h3>
 <ul>
-<li><a href="https://eeb330.github.io/slides/00_Why_Programming.html">Why learn
+<li><a href="slides/00_Why_Programming.html">Why learn
 Programming?</a></li>
-<li><a href="https://eeb330.github.io/slides/01_Computer_programming.html">Intro
-to the computer and programming logic</a></li>
+<li><a href="slides/01_Computer_programming.html">Intro to the computer
+and programming logic</a></li>
 </ul>
 </div>
 <div id="basic-r-and-git" class="section level3">
 <h3>1. <em>Basic R and git</em></h3>
 <ul>
-<li><a href="https://eeb330.github.io/slides/02_BasicR.html">Interacting
-with R</a></li>
-<li><a href="https://eeb330.github.io/slides/0_BasicGit.html">Version
-Control</a></li>
+<li><a href="slides/02_BasicR.html">Interacting with R</a></li>
+<li><a href="slides/03_BasicGit.html">Version Control</a></li>
 </ul>
 </div>
 <div id="control-flow-and-functions" class="section level3">
 <h3>2. <em>Control Flow and Functions</em></h3>
 <ul>
-<li><a href>Control Flow</a></li>
-<li><a href>Functions</a></li>
+<li><a href="slides/04_ControlFlow.html">Control Flow</a></li>
+<li><a href="slides/05_Functions.html">Functions</a></li>
 </ul>
 </div>
 <div id="data-io-and-regular-expressions" class="section level3">
 <h3>3. <em>Data IO and Regular Expressions</em></h3>
 <ul>
-<li><a href>Data Input and Output</a></li>
-<li><a href>Regular Expressions</a></li>
+<li><a href="slides/06_DataIO.html">Data Input and Output</a></li>
+<li><a href="slides/07_RegularExpressions.html">Strings and Regular
+Expressions</a></li>
+</ul>
+</div>
+<div id="data-wrangling-week" class="section level3">
+<h3>4. <em>Data Wrangling Week</em></h3>
+<ul>
+<li><a href="slides/08_DataWrangling1.html">Data Wrangling 1</a></li>
+<li><a href="slides/09_DataWrangling2.html">Data Wrangling 2</a></li>
 </ul>
 </div>
 </div>
 <div id="precepts" class="section level1">
 <h1>Precepts</h1>
-<p><strong>Precept 0</strong>: <a href><em>Installing R and an
-IDE</em></a></p>
-<p><strong>Precept 1</strong>: <a href><em>Basic R and
+<p><strong>Precept 1</strong>: <a href="slides/precepts/00_r_and_git.html"><em>Basic R and
 git</em></a></p>
-<p><strong>Precept 2</strong>: <a href><em>Control flow and
-Functions</em></a></p>
-<p><strong>Precept 3</strong>: <a href><em>Data IO and
-cleaning</em></a></p>
-<p><strong>Precept 4</strong>: <a href><em>Data
-Wrangling</em></a></p>
-<p><strong>Precept 5</strong>: <a href><em>Split-apply-combine</em></a></p>
-<p><strong>Precept 6</strong>: <a href><em>Plotting data</em></a></p>
-<p><strong>Precept 7</strong>: <a href><em>Starting with
-Python</em></a></p>
-<p><strong>Precept 8</strong>: <a href><em>Bioinformatics
-tools</em></a></p>
-<p><strong>Precept 9</strong>: <a href><em>Pipelines</em></a></p>
-<p><strong>Precept 10</strong>: <a href><em>TBD</em></a></p>
-<p><strong>Precept 11</strong>: <a href><em>TBD</em></a></p>
+<p><strong>Precept 2</strong>: <a href="slides/precepts/01_control_flow.html"><em>Control
+Flow</em></a></p>
 </div>
 <div id="readings" class="section level1">
 <h1>Readings</h1>
@@ -5703,7 +5694,7 @@ Expressions</a></li>
 <li>Mondays and Wednesday
 <ul>
 <li>13h30 to 14h50</li>
-<li>Jadwin Hall 303</li>
+<li>McCosh Hall 62</li>
 </ul></li>
 <li><a href="schedule.html">Schedule</a>
 <ul>
@@ -5712,10 +5703,10 @@ Calendar</a></li>
 </ul></li>
 </ul>
 <pre class="r"><code>library(leaflet)
-leaflet() %&gt;% addTiles() %&gt;% setView(-74.65227,40.34494, zoom = 20) %&gt;% 
-  addCircles(-74.65173438788858, 40.34492494187067, radius = 50, color = &quot;#03F&quot;, weight = 3)</code></pre>
-<div class="leaflet html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-8f9e22aa68d57eb55213" style="width:672px;height:480px;"></div>
-<script type="application/json" data-for="htmlwidget-8f9e22aa68d57eb55213">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addCircles","args":[40.3449249418707,-74.6517343878886,50,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":3,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]}],"setView":[[40.34494,-74.65227],20,[]],"limits":{"lat":[40.3449249418707,40.3449249418707],"lng":[-74.6517343878886,-74.6517343878886]}},"evals":[],"jsHooks":[]}</script>
+leaflet() %&gt;% addTiles() %&gt;% setView(-74.655895805085857,40.34855052259699, zoom = 20) %&gt;% 
+  addCircles(-74.65589580508585, 40.34855052259699, radius = 25, color = &quot;#03F&quot;, weight = 3)</code></pre>
+<div class="leaflet html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-229406fa08a9bf56a4e9" style="width:672px;height:480px;"></div>
+<script type="application/json" data-for="htmlwidget-229406fa08a9bf56a4e9">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org/copyright/\">OpenStreetMap<\/a>,  <a href=\"https://opendatacommons.org/licenses/odbl/\">ODbL<\/a>"}]},{"method":"addCircles","args":[40.34855052259699,-74.65589580508585,25,null,null,{"interactive":true,"className":"","stroke":true,"color":"#03F","weight":3,"opacity":0.5,"fill":true,"fillColor":"#03F","fillOpacity":0.2},null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null,null]}],"setView":[[40.34855052259699,-74.65589580508586],20,[]],"limits":{"lat":[40.34855052259699,40.34855052259699],"lng":[-74.65589580508585,-74.65589580508585]}},"evals":[],"jsHooks":[]}</script>
 </div>
 <div id="grading" class="section level1">
 <h1>Grading</h1>
