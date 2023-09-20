@@ -1,1 +1,1 @@
-# webiste
+# EEB330 Website
