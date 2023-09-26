@@ -64,6 +64,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 **Precept 2**: [*Control Flow*](slides/precepts/01_control_flow.html)
 
+**Precept 2**: [*Control Flow*](slides/precepts/02_io_and_strings.html)
+
 # Readings
 
 A live list of suggested reference materials
