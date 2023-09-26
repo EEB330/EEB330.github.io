@@ -72,6 +72,7 @@ A live list of suggested reference materials
 
 - [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
 - [British Ecological Society Guides](https://www.britishecologicalsociety.org/publications/guides-to/)
+- [Regular Expressions in R](https://r4ds.hadley.nz/regexps)
 - [Data Wranglong Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
 ### Longer texts
