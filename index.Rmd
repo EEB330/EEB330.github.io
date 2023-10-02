@@ -58,6 +58,11 @@ You should also set up a [github account](https://github.com/) and [install git]
 + [Data Wrangling 1](slides/08_DataWrangling1.html)
 + [Data Wrangling 2](slides/09_DataWrangling2.html)
 
+### 5. *Split-apply-combine*
+
++ [Split-apply-combine](slides/10_SplitApplyCombine.html)
++ [Guest lecture: Finding New Genes](https://github.com/caraweisman/abSENSE)
+
 # Precepts
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
@@ -65,6 +70,11 @@ You should also set up a [github account](https://github.com/) and [install git]
 **Precept 2**: [*Control Flow*](slides/precepts/01_control_flow.html)
 
 **Precept 3**: [*IO and Strings*](slides/precepts/02_io_and_strings.html)
+
+# Exams
+
+- **Midterm programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/LDOTNo85) 
+  - **Due Oct 13, 2023, 23:59 EDT**
 
 # Readings
 
