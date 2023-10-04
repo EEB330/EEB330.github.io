@@ -71,6 +71,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 **Precept 3**: [*IO and Strings*](slides/precepts/02_io_and_strings.html)
 
+**Precept 4**: [*Data Wrangling*](slides/precepts/03_data_wrangling.html)
+
 # Exams
 
 - **Midterm programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/LDOTNo85) 
@@ -85,7 +87,7 @@ A live list of suggested reference materials
 - [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
 - [British Ecological Society Guides](https://www.britishecologicalsociety.org/publications/guides-to/)
 - [Regular Expressions in R](https://r4ds.hadley.nz/regexps)
-- [Data Wranglong Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+- [Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
 ### Longer texts
 
