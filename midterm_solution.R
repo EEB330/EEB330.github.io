@@ -164,4 +164,3 @@ diversity_contaminants |>
         facet_grid(contaminants~Location, scales = "free") + 
         theme_bw() + 
     plot_annotation(caption = 'Lead concentration above 300 leads to a decrease in diversity')
-1
