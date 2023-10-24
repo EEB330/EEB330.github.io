@@ -63,7 +63,7 @@ You should also set up a [github account](https://github.com/) and [install git]
 + [Split-apply-combine](slides/10_SplitApplyCombine.html)
 + [Guest lecture: Finding New Genes](https://github.com/caraweisman/abSENSE)
 
-#### 6. Midterm solutions and Grammar of Graphics
+### 6. *Midterm solutions and Grammar of Graphics*
 
 + [Midterm solutions](midterm_solution.R)
 + [Grammar of Graphics](slides/12_GrammarOfGraphics.html)
