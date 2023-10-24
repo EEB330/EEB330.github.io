@@ -110,6 +110,59 @@ species_data |>
            Simpson = apply(species_data[,-c(1, 2)], 1, Simpson)) |>
     select(Month, Location, Simpson, Shannon)
 
+###############################
+# Extra point using creating the Diversity function
+###############################
+
+## Easy version for wide data
+
+Diversity = function(x, index){
+    apply(x[,-c(1:2)], 1, index)
+}
+
+species_data |> 
+    mutate(Shannon = Diversity(species_data, Shannon),
+           Simpson = Diversity(species_data, Simpson)) |>
+    select(Month, Location, Simpson, Shannon)
+
+
+## The brutally complicated version that works well with the long data
+
+Diversity = function(x, col, ...){
+    index = rlang::list2(...)                     # Getting a list of functions
+    index_name <- match.call(expand.dots = FALSE) # Getting a list of function names
+    index_name <- as.character(index_name$...)    # Setting the function names to characted
+    map2(index, index_name,                       # Mapping over functions and function names
+      function(f, name){ x |> 
+        summarize(current_index = f({{col}}))  |> # Calculating the functions on the col argument
+        rename_at("current_index", ~ name)}) |>   # Setting the summary column name
+        reduce(inner_join)                        # Joining all indexes
+}
+
+species_data |> 
+    pivot_longer(Species_1:Species_10, 
+                 names_to = "species", 
+                 values_to = "counts") |>
+    group_by(Month, Location) |>
+    Diversity(counts, Simpson, Shannon)
+
+# We can even add more diversity function without changing anything!
+
+Gini <- function(x) {
+  x <- as.numeric(x)
+  x <- zero.omit(na.omit(x))
+  n <- length(x)
+  gini <- 1 + (1 / n) - 2 * sum(cumsum(sort(x)) / sum(x)) / n
+  return(gini)
+}
+
+species_data |> 
+    pivot_longer(Species_1:Species_10, 
+                 names_to = "species", 
+                 values_to = "counts") |>
+    group_by(Month, Location) |>
+    Diversity(counts, Simpson, Shannon, Gini)
+
 #########################################
 # Merging contaminants and diversity data
 #########################################
