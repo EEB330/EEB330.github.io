@@ -111,7 +111,7 @@ species_data |>
     select(Month, Location, Simpson, Shannon)
 
 ###############################
-# Extra point using creating the Diversity function
+# Extra point: creating and using the Diversity function
 ###############################
 
 ## Easy version for wide data
@@ -129,12 +129,12 @@ species_data |>
 ## The brutally complicated version that works well with the long data
 
 Diversity = function(x, col, ...){
-    index = rlang::list2(...)                     # Getting a list of functions
-    index_name <- match.call(expand.dots = FALSE) # Getting a list of function names
-    index_name <- as.character(index_name$...)    # Setting the function names to characted
+    index = rlang::list2(...)                     # Getting a list of index functions
+    index_name <- match.call(expand.dots = FALSE) # Getting a list of index function names
+    index_name <- as.character(index_name$...)    # Setting the function names to character
     map2(index, index_name,                       # Mapping over functions and function names
       function(f, name){ x |> 
-        summarize(current_index = f({{col}}))  |> # Calculating the functions on the col argument
+        summarize(current_index = f({{col}}))  |> # Calculating the indexes on the col argument
         rename_at("current_index", ~ name)}) |>   # Setting the summary column name
         reduce(inner_join)                        # Joining all indexes
 }
@@ -167,8 +167,9 @@ species_data |>
 # Merging contaminants and diversity data
 #########################################
 
-diversity_contaminants = inner_join(diversity_indexes, contaminants_summary, 
-           by = c(Month = "YearMonth", "Location")) 
+diversity_contaminants = inner_join(diversity_indexes,
+                                    contaminants_summary, 
+                                    by = c(Month = "YearMonth", "Location")) 
 
 ########################################
 # Plots
