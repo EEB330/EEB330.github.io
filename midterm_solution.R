@@ -128,7 +128,7 @@ species_data |>
 
 ## The brutally complicated version that works well with the long data
 ##
-## This solution uses the metaprograming functions from the rlang package 
+## This solution uses the metaprogramming functions from the rlang package 
 ## to capture the index function names in the parent environment
 
 Diversity = function(x, col, ...){
