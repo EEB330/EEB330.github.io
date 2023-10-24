@@ -36,7 +36,7 @@ readData <- function(path){
     read_csv(dir(path, full.names = TRUE))
 }
 
-path = here("contaminants")
+path = "contaminants"
 contaminants = readData(path)
 
 ###############################
@@ -127,11 +127,14 @@ species_data |>
 
 
 ## The brutally complicated version that works well with the long data
+##
+## This solution uses the metaprograming functions from the rlang package 
+## to capture the index function names in the parent environment
 
 Diversity = function(x, col, ...){
     index = rlang::list2(...)                     # Getting a list of index functions
-    index_name <- match.call(expand.dots = FALSE) # Getting a list of index function names
-    index_name <- as.character(index_name$...)    # Setting the function names to character
+    index_name <-  map(rlang::ensyms(...) ,       # Setting the function names to character
+                       as.character)             
     map2(index, index_name,                       # Mapping over functions and function names
       function(f, name){ x |> 
         summarize(current_index = f({{col}}))  |> # Calculating the indexes on the col argument
