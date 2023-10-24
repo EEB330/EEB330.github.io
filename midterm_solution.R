@@ -93,7 +93,7 @@ Shannon <- function(x){
 # Calculating diversity indexes
 ###############################
 
-# Option 1 - long data
+# Option 1 - long data, a bit cleaner
 
 diversity_indexes = species_data |> 
     pivot_longer(Species_1:Species_10, 
@@ -103,7 +103,7 @@ diversity_indexes = species_data |>
     summarize(Simpson = Simpson(counts), 
               Shannon = Shannon(counts))
 
-# Option 1 - wide data
+# Option 2 - wide data
 
 species_data |> 
     mutate(Shannon = apply(species_data[,-c(1, 2)], 1, Shannon),
@@ -146,7 +146,7 @@ species_data |>
     group_by(Month, Location) |>
     Diversity(counts, Simpson, Shannon)
 
-# We can even add more diversity function without changing anything!
+# We can even add more diversity functions without changing anything!
 
 Gini <- function(x) {
   x <- as.numeric(x)
@@ -166,7 +166,6 @@ species_data |>
 #########################################
 # Merging contaminants and diversity data
 #########################################
-
 
 diversity_contaminants = inner_join(diversity_indexes, contaminants_summary, 
            by = c(Month = "YearMonth", "Location")) 
