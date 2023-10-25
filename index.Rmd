@@ -78,6 +78,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 **Precept 4**: [*Data Wrangling*](slides/precepts/03_data_wrangling.html)
 
+**Precept 5**: [*Plotting*](slides/precepts/04_plotting.html)
+
 # Exams
 
 - **Midterm programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/LDOTNo85) 
