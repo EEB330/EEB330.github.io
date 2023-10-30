@@ -68,6 +68,11 @@ You should also set up a [github account](https://github.com/) and [install git]
 + [Midterm solutions](midterm_solution.R)
 + [Grammar of Graphics](slides/12_GrammarOfGraphics.html)
 
+### 7. *Advanced plots: customizing and making good choices*
+
++ [ggplot2: Customizing plots](slides/13_GrammarOfGraphics2.html)
++ [Data visualization primer](slides/14_MakingPlots.html)
+
 # Precepts
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
