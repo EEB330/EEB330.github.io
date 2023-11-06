@@ -73,6 +73,10 @@ You should also set up a [github account](https://github.com/) and [install git]
 + [ggplot2: Customizing plots](slides/13_GrammarOfGraphics2.html)
 + [Data visualization primer](slides/14_MakingPlots.html)
 
+### 8. *Introduction to Python*
+
++ [Intro to Python](slides/15_intro_to_python.slides.html)
+
 # Precepts
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
