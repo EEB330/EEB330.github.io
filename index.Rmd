@@ -76,6 +76,7 @@ You should also set up a [github account](https://github.com/) and [install git]
 ### 8. *Introduction to Python*
 
 + [Intro to Python](slides/15_intro_to_python.slides.html)
++ [Python for Data Science](slides/16_intro_to_python_2.html)
 
 # Precepts
 
@@ -90,6 +91,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 **Precept 5**: [*Plotting*](slides/precepts/04_plotting.html)
 
 **Precept 6**: [*More Plotting*](slides/precepts/05_more_plotting.html)
+
+**Precept 7**: [*Intro to Python*](slides/precepts/06_intro_to_python.html)
 
 # Exams
 
