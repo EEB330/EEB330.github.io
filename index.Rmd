@@ -73,9 +73,14 @@ You should also set up a [github account](https://github.com/) and [install git]
 + [ggplot2: Customizing plots](slides/13_GrammarOfGraphics2.html)
 + [Data visualization primer](slides/14_MakingPlots.html)
 
-### 8. *Remote servers and Bioinformatics I*
+### 8. *Introduction to Python*
 
-+ [ggplot2: Customizing plots](slides/17_WorkingServer.html)
++ [Intro to Python](slides/15_intro_to_python.slides.html)
++ [Python for Data Science](slides/16_intro_to_python_2.html)
+
+### 9. *Remote servers and Bioinformatics I*
+
++ [Using remote servers](slides/17_WorkingServer.html)
 + [Bioinformatics I]()
 
 # Precepts
@@ -89,6 +94,10 @@ You should also set up a [github account](https://github.com/) and [install git]
 **Precept 4**: [*Data Wrangling*](slides/precepts/03_data_wrangling.html)
 
 **Precept 5**: [*Plotting*](slides/precepts/04_plotting.html)
+
+**Precept 6**: [*More Plotting*](slides/precepts/05_more_plotting.html)
+
+**Precept 7**: [*Intro to Python*](slides/precepts/06_intro_to_python.html)
 
 # Exams
 
