@@ -81,7 +81,7 @@ You should also set up a [github account](https://github.com/) and [install git]
 ### 9. *Remote servers and Bioinformatics I*
 
 + [Using remote servers](slides/17_WorkingServer.html)
-+ [Bioinformatics I]()
++ [Bioinformatics I](https://docs.google.com/presentation/d/1RwM8ogvdqU8gt-G4PN_9mTq-3Dh0yzdQbNGD9UWPiMc/edit?usp=sharing)
 
 # Precepts
 
