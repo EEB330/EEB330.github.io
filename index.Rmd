@@ -99,6 +99,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 **Precept 7**: [*Intro to Python*](slides/precepts/06_intro_to_python.html)
 
+**Precept 8**: [*Bioinformatics I*](slides/precepts/07_bioinformatics.html)
+
 # Exams
 
 - **Midterm programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/LDOTNo85) 
