@@ -85,7 +85,7 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 ### 10. *More Bioinformatics*
 
-+ [Bioinformatics II](slides/19_pipeline_example.pptx)
++ [Bioinformatics II](https://github.com/EEB330/slides/raw/main/19_pipeline_example.pptx)
 
 
 # Precepts
