@@ -83,6 +83,11 @@ You should also set up a [github account](https://github.com/) and [install git]
 + [Using remote servers](slides/17_WorkingServer.html)
 + [Bioinformatics I](https://docs.google.com/presentation/d/1RwM8ogvdqU8gt-G4PN_9mTq-3Dh0yzdQbNGD9UWPiMc/edit?usp=sharing)
 
+### 10. *More Bioinformatics*
+
++ [Bioinformatics II](slides/19_pipeline_example.pptx)
+
+
 # Precepts
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
