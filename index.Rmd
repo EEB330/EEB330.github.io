@@ -86,8 +86,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 ### 10. *More Bioinformatics*
 
 + [Bioinformatics II](https://github.com/EEB330/slides/raw/main/19_pipeline_example.pptx)
-
-
+  - [Example pipeline used in class](https://drive.google.com/drive/folders/1R095ywTQ5ZoimMJrLfAiGM_WuaRlrbue?usp=drive_link) (need to be logged in to Princeton gdrive to view!)
+ 
 # Precepts
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
