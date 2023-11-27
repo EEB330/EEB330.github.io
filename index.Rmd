@@ -87,7 +87,8 @@ You should also set up a [github account](https://github.com/) and [install git]
 
 + [Bioinformatics II](https://github.com/EEB330/slides/raw/main/19_pipeline_example.pptx)
   - [Example pipeline used in class](https://drive.google.com/drive/folders/1R095ywTQ5ZoimMJrLfAiGM_WuaRlrbue?usp=drive_link) (requires Princeton Gdrive loggin to view)
-  - [Intro to Snakemake]()
+
+- [Intro to Snakemake]()
  
 # Precepts
 
