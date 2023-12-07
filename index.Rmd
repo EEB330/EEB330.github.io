@@ -126,7 +126,7 @@ You should also set up a [github account](https://github.com/) and [install git]
   - **Due Oct 13, 2023, 23:59 EDT**
 
 - **Final programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/hua7-j2f) 
-  - **Due Dec 22st, 2023, 23:59 EDT**
+  - **Due Dec 22st, 2023, 23:59 EST**
 
 # Readings
 
