@@ -91,7 +91,15 @@ You should also set up a [github account](https://github.com/) and [install git]
 - [Intro to Snakemake](https://github.com/EEB330/slides/raw/main/20_snakemake.pptx)
   - [Example Snakemake workflow used in class](https://drive.google.com/drive/folders/12tGj39RMiEfdkI-wv5dbFwYpPHCuazz2?usp=sharing) (requires Princeton Gdrive log-in to view)
 
- 
+### 11. Spacial data and Phylogenetics
+
++ [Intro to Spacial](slides/21_spatial_data.html)
++ [Phylogenetic Inference]()
+
+### 12. Basic statistics and wrap-up
+
++ [Computer age statistics](slides/23_ComputerAgeStats.html)
+
 # Precepts
 
 **Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
