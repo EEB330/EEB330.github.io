@@ -164,8 +164,8 @@ A live list of suggested reference materials
   
 # Location and schedule
 
-- Mondays and Wednesday 
-  - 13h30 to 14h50
+- Mondays and Wednesdays
+  - 3:00pm to 4:20pm
   - McCosh Hall 62
   
 - [Schedule](schedule.html)
@@ -186,10 +186,10 @@ leaflet() %>% addTiles() %>% setView(-74.655895805085857,40.34855052259699, zoom
   - Class and precept participation (15%)
     - Participation and in-class quizzes
 
-  - Two coding projects (35%)
-    - Midterm and Final projects
+  - Two coding projects (40%)
+    - Midterm and Final projects, equally weighted
     - Around 2-3 weeks 
 
-  - Open-science exercise (20%)
+  - Open-science exercise (15%)
     - Small presentation during finals period reproducing the analysis and/or plots from a published paper. 
     - More details later in the course
