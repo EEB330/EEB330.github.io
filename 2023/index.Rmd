@@ -1,0 +1,195 @@
+---
+title: "**EEB330** *Programming for Biologists*"
+output:
+  html_document:
+    number_sections: false
+    toc: true
+    theme: yeti
+    toc_depth: 2
+    toc_float: 
+      collapsed: false
+      smooth_scroll: false
+---
+
+# Preliminaries
+
+## R
+
+The first part of our course will be all in the R programming language, so you should install R on your computer.
+You can find R at [https://cran.rstudio.com/index.html](https://cran.rstudio.com/index.html).
+On this website, there are instructions for installing it on various different operating systems; versions for Windows, Mac OS, and Linux are available.
+Linux users likely have a package manager installed on their system, such as apt or pacman, which can also be used for the installation.
+
+The basic installation of R on Windows or Mac OS provides a basic interface for running routines; however, we recommend installing R Studio, an intuitive integrated development environment (IDE) for using R.
+This IDE can be found at [http://www.rstudio.com](https://posit.co/products/open-source/rstudio/) for Windows, Mac OS, or Linux.
+
+## Text editor
+
+Installing a more general text editor is also a good idea. The most popular modern editor is [vscode](https://code.visualstudio.com/). Vscode has plugins for several languages and lots of useful tools. Other great choices that are a bit more old school are [neovim](https://neovim.io/) and [emacs](https://www.gnu.org/software/emacs/). 
+
+## Github
+
+You should also set up a [github account](https://github.com/) and [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) locally. You can also install [Github Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop) to interact with git, but this is optional.
+
+# Lecture slides
+
+### 0. *Motivation and Computer Programming*
+
++ [Why learn Programming?](slides/00_Why_Programming.html)
++ [Intro to the computer and programming logic](slides/01_Computer_programming.html)
+
+### 1. *Basic R and git*
+
++ [Interacting with R](slides/02_BasicR.html)
++ [Version Control](slides/03_BasicGit.html)
+
+### 2. *Control Flow and Functions*
+
++ [Control Flow](slides/04_ControlFlow.html)
++ [Functions](slides/05_Functions.html)
+
+### 3. *Data IO and Regular Expressions*
+
++ [Data Input and Output](slides/06_DataIO.html)
++ [Strings and Regular Expressions](slides/07_RegularExpressions.html)
+
+### 4. *Data Wrangling Week*
+
++ [Data Wrangling 1](slides/08_DataWrangling1.html)
++ [Data Wrangling 2](slides/09_DataWrangling2.html)
+
+### 5. *Split-apply-combine*
+
++ [Split-apply-combine](slides/10_SplitApplyCombine.html)
++ [Guest lecture: Finding New Genes](https://github.com/caraweisman/abSENSE)
+
+### 6. *Midterm solutions and Grammar of Graphics*
+
++ [Midterm solutions](midterm_solution.R)
++ [Grammar of Graphics](slides/12_GrammarOfGraphics.html)
+
+### 7. *Advanced plots: customizing and making good choices*
+
++ [ggplot2: Customizing plots](slides/13_GrammarOfGraphics2.html)
++ [Data visualization primer](slides/14_MakingPlots.html)
+
+### 8. *Introduction to Python*
+
++ [Intro to Python](slides/15_intro_to_python.slides.html)
++ [Python for Data Science](slides/16_intro_to_python_2.html)
+
+### 9. *Remote servers and Bioinformatics I*
+
++ [Using remote servers](slides/17_WorkingServer.html)
++ [Bioinformatics I](https://docs.google.com/presentation/d/1RwM8ogvdqU8gt-G4PN_9mTq-3Dh0yzdQbNGD9UWPiMc/edit?usp=sharing)
+
+### 10. *More Bioinformatics*
+
++ [Bioinformatics II](https://github.com/EEB330/slides/raw/main/19_pipeline_example.pptx)
+  - [Example pipeline used in class](https://drive.google.com/drive/folders/1R095ywTQ5ZoimMJrLfAiGM_WuaRlrbue?usp=drive_link) (requires Princeton Gdrive log-in to view)
+
+- [Intro to Snakemake](https://github.com/EEB330/slides/raw/main/20_snakemake.pptx)
+  - [Example Snakemake workflow used in class](https://drive.google.com/drive/folders/12tGj39RMiEfdkI-wv5dbFwYpPHCuazz2?usp=sharing) (requires Princeton Gdrive log-in to view)
+
+### 11. Spacial data
+
++ [Intro to Spacial data](slides/21_spatial_data.html)
+
+### 12. Basic statistics and wrap-up
+
++ [Phylogenetic Inference]()
++ [Computer age statistics](slides/23_ComputerAgeStats.html)
+
+# Precepts
+
+**Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
+
+**Precept 2**: [*Control Flow*](slides/precepts/01_control_flow.html)
+
+**Precept 3**: [*IO and Strings*](slides/precepts/02_io_and_strings.html)
+
+**Precept 4**: [*Data Wrangling*](slides/precepts/03_data_wrangling.html)
+
+**Precept 5**: [*Plotting*](slides/precepts/04_plotting.html)
+
+**Precept 6**: [*More Plotting*](slides/precepts/05_more_plotting.html)
+
+**Precept 7**: [*Intro to Python*](slides/precepts/06_intro_to_python.html)
+
+**Precept 8**: [*Bioinformatics I*](slides/precepts/07_bioinformatics.html)
+
+**Precept 9**: [*Snakemake*](slides/precepts/08_snakemake.html)
+
+# Exams
+
+- **Midterm programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/LDOTNo85) 
+  - **Due Oct 13, 2023, 23:59 EDT**
+
+- **Final programming assignment** - [Click here to clone the assignment repo](https://classroom.github.com/a/hua7-j2f) 
+  - **Due Dec 22st, 2023, 23:59 EST**
+
+# Readings
+
+A live list of suggested reference materials
+
+### Short tutorials
+
+- [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
+- [British Ecological Society Guides](https://www.britishecologicalsociety.org/publications/guides-to/)
+- [Regular Expressions in R](https://r4ds.hadley.nz/regexps)
+- [Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+
+### Longer texts
+
+- [R for Data Science](https://r4ds.hadley.nz/)
+- [Bioinformatics Data Skills](https://vincebuffalo.com/book/)
+- [Advanced R](https://adv-r.hadley.nz/)
+- [Mastering Regular Expressions](http://regex.info/book.html)
+- [ggplot2 book](https://ggplot2-book.org/)
+
+### Webinars
+
+- [ggplot2 workshop](https://www.youtube.com/watch?v=h29g21z0a68&ab_channel=ThomasLinPedersen)
+
+# Staff 
+
+- Diogo Melo - [damelo@princeton.edu](damelo@princeton.edu)
+- Scott Wolf - [swwolf@princeton.edu](swwolf@princeton.edu)
+
+- Website: [eeb330.github.io](http://eeb330.github.io)
+
+- Office hours:
+  - Guyot 301
+  - By appointment
+  
+# Location and schedule
+
+- Mondays and Wednesday 
+  - 13h30 to 14h50
+  - McCosh Hall 62
+  
+- [Schedule](schedule.html)
+  - [Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTY0MjgxMDI1NjFlYWQ4MWY4NDI2NGQyMzQ3Mzg2OGNkYTVhNDA0YzY1MmNmNzI0ZWU5YjBhNWZhYzYwZTZkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+```{r}
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(-74.655895805085857,40.34855052259699, zoom = 20) %>% 
+  addCircles(-74.65589580508585, 40.34855052259699, radius = 25, color = "#03F", weight = 3)
+```
+
+# Grading
+
+  - **No exams**
+  - Weekly-ish coding exercises (30%)
+    - Graded for coherence, not correctness
+
+  - Class and precept participation (15%)
+    - Participation and in-class quizzes
+
+  - Two coding projects (35%)
+    - Midterm and Final projects
+    - Around 2-3 weeks 
+
+  - Open-science exercise (20%)
+    - Small presentation during finals period reproducing the analysis and/or plots from a published paper. 
+    - More details later in the course

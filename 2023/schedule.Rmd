@@ -1,0 +1,39 @@
+---
+title: "Schedule"
+author: "Diogo Melo"
+date: 2023-10-02
+output: html_document
+---
+
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTY0MjgxMDI1NjFlYWQ4MWY4NDI2NGQyMzQ3Mzg2OGNkYTVhNDA0YzY1MmNmNzI0ZWU5YjBhNWZhYzYwZTZkYkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+| Date        | Theme                                     | Content                                                                                                                                                                               |
+| ----------- | ----------------------------------------- | -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------         |
+| Sept. 6th   | Why programming?                          | Reproducible research, Bespoke custom analysis, Independence for creating models, Beautiful figures, Sharing analytical tools, Package ecosystem                                      |
+| Sept. 6th   | Intro to computer and programming logic   | Intro to programming logic, Computers, Memory, Processors, Programming languages, Interpreted vs compiled languages, Machine code vs source code, Using text files, Text editor, IDE. |
+| Sept. 11th  | Basic interaction with R                  | Why R? Basic programming, Setting up R, Setting up a project, Variables, Mathematical operations, Packages                                                                            |
+| Sept. 13th  | Version control                           | git basics, project discipline, read only data, write only outputs.                                                                                                                   |
+| Sept. 18th  | Control flow 1                            | if, for, while...                                                                                                                                                                     |
+| Sept. 20th  | Control flow 2                            | Functions and environments                                                                                                                                                            |
+| Sept. 25th  | Data input                                | Reading data from file, data-structures for ecological and genomics data                                                                                                              |
+| Sept. 27th  | String manipulation                       | Strings and regular expressions                                                                                                                                                       |
+| Oct. 2nd    | Data wrangling 1                          | The verbs of data wrangling: filter, select, mutate, summarize, joins...                                                                                                              |
+| Oct. 4th    | Data wrangling 2                          | Complex sequences of data manipulation                                                                                                                                                |
+| Oct. 9th    | Split-apply-combine methods.              | apply family, plyr, dplyr, map, purrr. Modularizing code.                                                                                                                             |
+| Oct. 11th   | Finding new genes                         | Guest Lecture by Cara Weisman                                                                                                                                                         |
+| Oct. 23rd   | Recap and good coding practices           | Why Scott doesn't like grading the precepts                                                                                                                                           |
+| Oct. 25th   | Plotting 1                                | The grammar of graphics                                                                                                                                                               |
+| Oct. 30th   | Plotting 2                                | Making plots pretty                                                                                                                                                                   |
+| Nov. 1st    | Plotting 3                                | Designing good visualizations                                                                                                                                                         |
+| Nov. 6th    | Intro to python 1                         | Why Python, Jupyter setup, basic functions, converting R to python                                                                                                                    |
+| Nov. 8th    | Intro to python 2                         | Python for general purpose programming. IO, vision, web scraping                                                                                                                      |
+| Nov. 13th   | Bash and working on a cluster             | Remote file and job management                                                                                                                                                        |
+| Nov. 15th   | Bioinformatics 1                          | Objectives of bioinformatic sequence analysis and available tools                                                                                                                     |
+| Nov. 20th   | Bioinformatics 2                          | Working through a SNP calling pipeline with NGS data                                                                                                                                  |
+| Nov. 27th   | Setting up a bioinformatics pipeline      | Using snakemake to do real work                                                                                                                                                       |
+| Nov. 29th   | Spatial data                              | Dealing with shape formats and making maps                                                                                                                                            |
+| Dec. 4th    | Phylogenetic Inference                    | Using sequence data to uncover evolutionary relations                                                                                                                                 |
+| Dec. 6th    | Computer age statistical inference        | Basic hypothesis testing using permutations                                                                                                                                           |
+
+
+                                                                                                                                                   
