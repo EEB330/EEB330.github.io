@@ -51,7 +51,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 - Mondays and Wednesdays
   - 3:00pm to 4:20pm
-  - McCosh Hall 62
+  - Lewis Library 121
 
 - Office hours:
   - Guyot 104a or 100
@@ -64,8 +64,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 0. *Motivation and Computer Programming*
 
-+ [Why learn Programming?](slides/00_Why_Programming.html)
-+ [Computer parts and programming languages](slides/01_Computer_programming.html)
++ [Why learn Programming?](../slides/00_Why_Programming.html)
++ [Computer parts and programming languages](../slides/01_Computer_programming.html)
 
 ### 1. *First steps with R, python and git*
 
@@ -93,7 +93,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 # Precepts
 
-**Precept 1**: [*Basic R and git*](slides/precepts/00_r_and_git.html)
+**Precept 1**: [*Basic R and git*](../slides/precepts/00_r_and_git.html)
 
 # Exams
 
