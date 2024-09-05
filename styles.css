@@ -1,0 +1,25 @@
+.ref {
+    /* font-weight: bold; */
+    /* font-style: italic; */
+    font-size: 0.5em;
+    color: gray;
+  }
+
+.remark-code, .remark-inline-code {
+    font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace;
+    font-size: 80%;
+    color: black
+}
+
+/* Two-column layout */
+.left-column {
+  width: 70%;
+  height: 92%;
+  float: left;
+  color: black
+}
+.right-column {
+  width: 29%;
+  float: right;
+  color: black
+}
