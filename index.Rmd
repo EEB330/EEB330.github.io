@@ -49,13 +49,17 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 # Schedule and location
 
-- Mondays and Wednesdays
+- Lectures:
+  - Mondays and Wednesdays
   - 3:00pm to 4:20pm
   - Lewis Library 121
 
+- Precepts:
+  - Thursday 10am, or Friday 12:30pm
+
 - Office hours:
-  - Guyot 104a or 100
-  - Thursday 10-11am or 2-3pm, depending on weeks
+  - Guyot 104a
+  - By appointment
   
 - Check the tentative [schedule](schedule.html) for courses, precepts, and assignments
   - Add to your calendar the regularly-updated [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y182NjA5NWU5ZTJkNjY3Y2Y2ZjQzMTdhMzU4Nzg2MTkwMDA0MDkyN2JkNWVjYjJlYTliOTgzOWUxZTI4OTFlZTM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
