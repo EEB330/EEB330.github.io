@@ -72,6 +72,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Computer parts and programming languages](../slides/01_Computer_programming.html)
 
 ### 1. *First steps with R, python and git*
++ [A flash primer in R and Python](../slides/02_BasicRPython.html)
 
 ### 2. *Control Flow and Functions (tentative)*
 
