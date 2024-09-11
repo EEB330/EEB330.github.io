@@ -73,6 +73,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 1. *First steps with R, python and git*
 + [A flash primer in R and Python](../slides/02_BasicRPython.html)
++ [Version control (git)](../slides/02_BasicGit.html)
 
 ### 2. *Control Flow and Functions (tentative)*
 
