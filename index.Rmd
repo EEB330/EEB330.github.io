@@ -75,9 +75,10 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [A flash primer in R and Python](../slides/02_BasicRPython.html)
 + [Version control (git)](../slides/03_BasicGit.html)
 
-### 2. *Control Flow and Functions (tentative)*
+### 2. *Control Flow and Functions*
++ [Control flow 1 (if, for, while, ...)](../slides/04_ControlFlow.html)
 
-### 3. *Data IO and Regular Expressions (tentative)*
+### 3. *Data IO and Regular Expressions*
 
 ### 4. *Data Wrangling (tentative)*
 
