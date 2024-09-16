@@ -102,6 +102,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 1**: [*Basic R and git*](../slides/precepts/00_intro_to_git.html)
 
+**Precept 2** [*Control Flow in R and Python*](../slides/precepts/01_control_flow.html)
+
 # Exams
 
 - **Midterm programming assignment** - assignment repository to come
