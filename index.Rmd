@@ -80,6 +80,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Functions](../slides/05_Functions.html)
 
 ### 3. *Data IO and Regular Expressions*
++ [Data IO](../slides/06_DataIO.html)
++ [Regular Expressions](../slides/07_RegularExpressions.html)
 
 ### 4. *Data Wrangling (tentative)*
 
