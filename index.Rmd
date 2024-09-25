@@ -77,8 +77,11 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 2. *Control Flow and Functions*
 + [Control flow 1 (if, for, while, ...)](../slides/04_ControlFlow.html)
++ [Functions](../slides/05_Functions.html)
 
 ### 3. *Data IO and Regular Expressions*
++ [Data IO](../slides/06_DataIO.html)
++ [Regular Expressions](../slides/07_RegularExpressions.html)
 
 ### 4. *Data Wrangling (tentative)*
 
