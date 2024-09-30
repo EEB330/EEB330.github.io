@@ -84,7 +84,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Regular Expressions](../slides/07_RegularExpressions.html)
 
 ### 4. *Data Wrangling*
-+ [Data IO](../slides/08_DataWrangling1.html)
++ [Data Wrangling 1](../slides/08_DataWrangling1.html)
 
 ### 5. *Split-apply-combine + Guest lecture: Finding New Genes (tentative)*
 
