@@ -103,11 +103,11 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 # Precepts
 
-**Precept 0**: [*Intro to git*](../slides/precepts/00_intro_to_git.html)
+**Precept 1**: [*Intro to git*](../slides/precepts/01_intro_to_git.html)
 
-**Precept 1** [*Control Flow in R and Python*](../slides/precepts/01_control_flow.html)
+**Precept 2** [*Control Flow in R and Python*](../slides/precepts/02_control_flow.html)
 
-**Precept 2** [*Data IO and String Wrangling*](../slides/precepts/02_io_and_strings.html)
+**Precept 3** [*Data IO and String Wrangling*](../slides/precepts/03_io_and_strings.html)
 
 # Exams
 
