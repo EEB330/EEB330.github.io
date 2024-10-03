@@ -110,6 +110,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 3** [*Data IO and String Wrangling*](../slides/precepts/03_io_and_strings.html)
 
+**Precept 4** [*Data Wrangling*](../slides/precepts/04_data_wrangling.html)
+
 # Exams
 
 - **Midterm programming assignment** - assignment repository to come
