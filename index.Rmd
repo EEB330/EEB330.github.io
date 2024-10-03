@@ -85,6 +85,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 4. *Data Wrangling*
 + [Data Wrangling 1](../slides/08_DataWrangling1.html)
++ [Data Wrangling 2](../slides/09_DataWrangling2.html)
 
 ### 5. *Split-apply-combine + Guest lecture: Finding New Genes (tentative)*
 
