@@ -117,7 +117,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 # Exams
 
 - **Midterm programming assignment** - [*midterm assignment link*](https://classroom.github.com/a/a8O_wAEp)
-  - **Due Oct 13th, 2024, 23:59 EDT**
+  - **Due Oct 11th, 2024, 23:59 EDT**
 
 - **Final programming assignment** - assignment repository to come
   - **Due Dec 15th, 2023, 23:59 EST**
