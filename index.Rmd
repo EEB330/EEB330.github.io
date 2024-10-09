@@ -114,7 +114,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 4** [*Data Wrangling*](../slides/precepts/04_data_wrangling.html)
 
-**Precept 5** [*Applying Functgions*](../slides/precepts/05_applying_functions.html)
+**Precept 5** [*Applying Functions*](../slides/precepts/05_applying_functions.html)
 
 # Exams
 
