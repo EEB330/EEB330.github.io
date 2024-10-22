@@ -64,6 +64,10 @@ For easier interaction with github repositories, it is also advised to setup a S
 - Check the tentative [schedule](schedule.html) for courses, precepts, and assignments
   - Add to your calendar the regularly-updated [Google Calendar](https://calendar.google.com/calendar/u/1?cid=Y182NjA5NWU5ZTJkNjY3Y2Y2ZjQzMTdhMzU4Nzg2MTkwMDA0MDkyN2JkNWVjYjJlYTliOTgzOWUxZTI4OTFlZTM5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
+- Late Policy as of October 21, 2024:
+  - 5 points deducted for every 24 hours late
+  - Extensions and accommodations are exceptions
+
 # Lecture slides
 
 ### 0. *Motivation and Computer Programming*
