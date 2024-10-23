@@ -120,6 +120,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 5** [*Applying Functions*](../slides/precepts/05_applying_functions.html)
 
+**Precept 6** [*Plotting*](../slides/precepts/06_plotting.html)
+
 # Exams
 
 - **Midterm programming assignment** - [*midterm assignment link*](https://classroom.github.com/a/a8O_wAEp)
