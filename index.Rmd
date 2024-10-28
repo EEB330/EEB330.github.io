@@ -100,7 +100,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Grammar of Graphics](../slides/12_GrammarOfGraphics.html)
 
 ### 7. *Advanced plotting*
-+ [Plotting aesthetics](../slides/13_GrammarofGraphics2.html)
++ [Plotting aesthetics](../slides/13_GrammarOfGraphics2.html)
 
 ### 7. *Advanced plotting*
 >>>>>>> 5c1ffc8 (index.rmd)
