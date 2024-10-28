@@ -95,10 +95,14 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Applying/mapping functions](../slides/10_SplitApplyCombine.html)
 
 ### 6. *Recap + midterm solutions + basic plotting*
++ midterm solutions
++ [Basic plotting](../slides/12_GrammarOfGraphics.html)
 
 ### 7. *Advanced plotting*
 + [Plotting aesthetics](../slides/13_GrammarofGraphics2.html)
 
+### 7. *Advanced plotting*
+>>>>>>> 5c1ffc8 (index.rmd)
 
 ### 8. *Statistics and data science (tentative)*
 
