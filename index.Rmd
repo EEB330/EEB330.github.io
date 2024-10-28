@@ -97,6 +97,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 ### 6. *Recap + midterm solutions + basic plotting*
 + midterm solutions
 + [Basic plotting](../slides/12_GrammarOfGraphics.html)
++ [Grammar of Graphics](../slides/12_GrammarOfGraphics.html)
 
 ### 7. *Advanced plotting*
 + [Plotting aesthetics](../slides/13_GrammarofGraphics2.html)
@@ -125,6 +126,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 **Precept 4** [*Data Wrangling*](../slides/precepts/04_data_wrangling.html)
 
 **Precept 5** [*Applying Functions*](../slides/precepts/05_applying_functions.html)
+
+**Precept 6** [*Plotting*](../slides/precepts/06_plotting.html)
 
 # Exams
 
