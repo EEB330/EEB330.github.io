@@ -93,17 +93,14 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 5. *Applying/mapping functions + Guest lecture: Finding New Genes*
 + [Applying/mapping functions](../slides/10_SplitApplyCombine.html)
++ Guest lecture: Finding New Genes
 
 ### 6. *Recap + midterm solutions + basic plotting*
-+ midterm solutions
++ Recap and midterm solutions
 + [Basic plotting](../slides/12_GrammarOfGraphics.html)
-+ [Grammar of Graphics](../slides/12_GrammarOfGraphics.html)
 
 ### 7. *Advanced plotting*
 + [Plotting aesthetics](../slides/13_GrammarOfGraphics2.html)
-
-### 7. *Advanced plotting*
->>>>>>> 5c1ffc8 (index.rmd)
 
 ### 8. *Statistics and data science (tentative)*
 
