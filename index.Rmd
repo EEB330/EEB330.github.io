@@ -121,7 +121,9 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 5** [*Applying Functions*](../slides/precepts/05_applying_functions.html)
 
-**Precept 6** [*Plotting*](../slides/precepts/06_plotting.html)
+**Precept 6** [*Intro to Plotting*](../slides/precepts/06_plotting.html)
+
+**Precept 7** [*Plotting from Scratch*](../slides/precepts/07_more_plotting.html)
 
 # Exams
 
