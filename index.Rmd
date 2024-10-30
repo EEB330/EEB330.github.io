@@ -101,6 +101,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 7. *Advanced plotting*
 + [Plotting aesthetics](../slides/13_GrammarOfGraphics2.html)
++ [Data visualization](../slides/14_MakingPlots.html)
 
 ### 8. *Statistics and data science (tentative)*
 
