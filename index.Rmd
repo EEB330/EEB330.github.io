@@ -103,7 +103,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Plotting aesthetics](../slides/13_GrammarOfGraphics2.html)
 + [Data visualization](../slides/14_MakingPlots.html)
 
-### 8. *Statistics and data science (tentative)*
+### 8. *Statistics and data science*
++ [Statistics with python](../slides/15_python_stats.html)
 
 ### 9. *Remote servers + bash + Bioinformatics I (tentative)*
 
