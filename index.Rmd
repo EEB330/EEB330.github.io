@@ -105,6 +105,9 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 8. *Statistics and data science*
 + [Statistics with python](../slides/15_python_stats.html)
++ [Statistics with python 2](../slides/16_python_stats2.html)
++ [Global Tipping Points: Amazon Rainforest](../slides/EEB330_Nov_6_Amazon.pdf)
++ [Complex Systems & Early Warning Signals](../slides/EEB330_Nov_6_reddit.pdf)
 
 ### 9. *Remote servers + bash + Bioinformatics I (tentative)*
 
