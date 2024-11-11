@@ -111,6 +111,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 9. *Remote servers + bash + Bioinformatics I (tentative)*
 
++ [Research computing and bash](../slides/17_ResearchComptuting.html)
+
 ### 10. *Bioinformatics II + Snakemake analysis pipeline (tentative)*
 
 ### 11. *Spatial data (tentative)*
