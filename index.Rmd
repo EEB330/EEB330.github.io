@@ -109,9 +109,11 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Global Tipping Points: Amazon Rainforest](../slides/EEB330_Nov_6_Amazon.pdf)
 + [Complex Systems & Early Warning Signals](../slides/EEB330_Nov_6_reddit.pdf)
 
-### 9. *Remote servers + bash + Bioinformatics I (tentative)*
+### 9. *Remote servers + bash + Bioinformatics*
 
-### 10. *Bioinformatics II + Snakemake analysis pipeline (tentative)*
++ [Research computing and bash](../slides/17_ResearchComputing.html)
+
+### 10. *Bioinformatics II + Snakemake analysis pipeline*
 
 ### 11. *Spatial data (tentative)*
 
@@ -135,7 +137,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 8** [*Statistics in Python*](../slides/precepts/08_stats_in_python.html)
 
-**Precept 9** [*Bioinformatics I*](../slides/precepts/09_bioinformatics.html)
+**Precept 9** [*Bioinformatics*](../slides/precepts/09_bioinformatics.html)
 
 # Exams
 
