@@ -135,6 +135,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 8** [*Statistics in Python*](../slides/precepts/08_stats_in_python.html)
 
+**Precept 9** [*Bioinformatics I*](../slides/precepts/09_bioinformatics.html)
+
 # Exams
 
 - **Midterm programming assignment** - [*midterm assignment link*](https://classroom.github.com/a/a8O_wAEp)
