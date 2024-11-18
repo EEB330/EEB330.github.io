@@ -112,7 +112,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 ### 9. *Remote servers + bash + Bioinformatics*
 
 + [Research computing and bash](../slides/17_ResearchComputing.html)
-+ [Guest lecture (Andrew Webb): Bioinformatics I](../slides/18_Bioinformatics_1.html)
++ [Guest lecture (Andrew Webb): Bioinformatics I](../slides/18_Bioinformatics_1.pdf)
 
 ### 10. *Bioinformatics II + Snakemake analysis pipeline*
 
