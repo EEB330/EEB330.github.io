@@ -116,6 +116,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 10. *Bioinformatics II + Snakemake analysis pipeline*
 
++ [Guest lecture (Andrew Webb): Bioinformatics II, pipeline example](../slides/18_Bioinformatics_2.pdf) + [Slurm scripts](../slides/slurm_pipeline_bioinformatics2.zip)
+
 ### 11. *Spatial data (tentative)*
 
 ### 12. *More statistics, phylogenetic inference, wrap-up (tentative)*
