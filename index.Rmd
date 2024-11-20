@@ -93,7 +93,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 ### 5. *Applying/mapping functions + Guest lecture: Finding New Genes*
 + [Applying/mapping functions](../slides/10_SplitApplyCombine.html)
-+ Guest lecture: Finding New Genes
++ Guest lecture (Cara Weisman): Finding New Genes 
 
 ### 6. *Recap + midterm solutions + basic plotting*
 + Recap and midterm solutions
@@ -112,8 +112,11 @@ For easier interaction with github repositories, it is also advised to setup a S
 ### 9. *Remote servers + bash + Bioinformatics*
 
 + [Research computing and bash](../slides/17_ResearchComputing.html)
++ [Guest lecture (Andrew Webb): Bioinformatics I](../slides/18_Bioinformatics_1.pdf)
 
 ### 10. *Bioinformatics II + Snakemake analysis pipeline*
+
++ [Guest lecture (Andrew Webb): Bioinformatics II, pipeline example](../slides/18_Bioinformatics_2.pdf) + [Slurm scripts](../slides/slurm_pipeline_bioinformatics2.zip)
 
 ### 11. *Spatial data (tentative)*
 
