@@ -139,6 +139,8 @@ For easier interaction with github repositories, it is also advised to setup a S
 
 **Precept 9** [*Bioinformatics*](../slides/precepts/09_bioinformatics.html)
 
+**Precept 10** [*Snakemake*](../slides/precepts/10_snakemake.html)
+
 # Exams
 
 - **Midterm programming assignment** - [*midterm assignment link*](https://classroom.github.com/a/a8O_wAEp)
