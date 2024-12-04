@@ -123,6 +123,7 @@ For easier interaction with github repositories, it is also advised to setup a S
 + [Spatial data](../slides/21_spatial_data.html)
 
 ### 12. *More statistics, phylogenetic inference, wrap-up*
++ [Computer Age Statistics](../slides/23_ComputerAgeStats.html)
 
 # Precepts
 
